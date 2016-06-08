@@ -8,7 +8,7 @@
   padding: 20px;
   margin-bottom: 20px;
   border-bottom-style: solid;
-  border-color: gray;
+  border-color: #ECEDF1;
   border-width: 50px;
 }
 
@@ -22,7 +22,7 @@
   padding: 20px;
   margin-bottom: 20px;
   border-bottom-style: solid;
-  border-color: gray;
+  border-color: #ECEDF1;
   border-width: 50px;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .container p4 {
-  font-size: 14px;
+  font-size: 16px;
   text-align:left;
   position:relative;
 }
@@ -72,7 +72,7 @@
 }
 
 .matchbox1 {
-    background-color: green;
+    background-color: #3EDA2A;
     width: 233px;
     height: 25px;
     float: right;
@@ -90,7 +90,7 @@
 @import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
 }
 
-  input[type=checkbox] { display:none; } /* to hide the checkbox itself */
+  input[type=checkbox] { display:none; }
   input[type=checkbox] + label:before {
     font-family: 'Roboto';
     display: inline-block;
@@ -105,7 +105,7 @@
 
 
 .matchbox2 {
-    background-color: green;
+    background-color: #3EDA2A;
     width: 233px;
     height: 25px;
     float: right;
