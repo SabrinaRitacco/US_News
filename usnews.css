@@ -1,0 +1,121 @@
+.first {
+  width: 750px;
+  height: 200px;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #cfcfcf;
+  margin: auto;
+  font-family: 'Roboto';
+  padding: 20px;
+  margin-bottom: 20px;
+  border-bottom-style: solid;
+  border-color: gray;
+  border-width: 50px;
+}
+
+.second {
+  width: 750px;
+  height: 200px;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #cfcfcf;
+  margin: auto;
+  font-family: 'Roboto';
+  padding: 20px;
+  margin-bottom: 20px;
+  border-bottom-style: solid;
+  border-color: gray;
+  border-width: 50px;
+}
+
+.container a:link {
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.container h1 {
+  margin: auto;
+}
+
+.container h2 {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.container p1 {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.container p2 {
+  font-size: 14px;
+  text-align:left;
+  position:relative;
+}
+
+.container p3 {
+  font-size: 14px;
+  text-align:left;
+  position:relative;
+  line-height: 5;
+}
+
+.container p4 {
+  font-size: 14px;
+  text-align:left;
+  position:relative;
+}
+
+.college-photo1 img{
+  float: right;
+  position: absolute;
+  top: 30px;
+  right: 265px;
+}
+
+.matchbox1 {
+    background-color: green;
+    width: 233px;
+    height: 25px;
+    float: right;
+    position: absolute;
+    top: 200px;
+    right: 265px;
+}
+
+.matchbox1 p5 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  padding-left: 30%;
+}
+
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+}
+
+  input[type=checkbox] { display:none; } /* to hide the checkbox itself */
+  input[type=checkbox] + label:before {
+    font-family: 'Roboto';
+    display: inline-block;
+}
+
+.college-photo2 img{
+  float: right;
+  position: absolute;
+  top: 340px;
+  right: 265px;
+}
+
+
+.matchbox2 {
+    background-color: green;
+    width: 233px;
+    height: 25px;
+    float: right;
+    position: absolute;
+    top: 510px;
+    right: 265px;
+}
+
+.matchbox2 p5 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  padding-left: 30%;
+}
